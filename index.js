@@ -13,16 +13,13 @@ app.use(cors());
 
 app.get("/songs", alldata);
 function alldata(request, response) {
-  // Returns all information about the elements
   response.send(songs);
 }
 
 app.get("/songs/:song/", searchSongs);
+
 function searchSongs(request, response) {
-  var word = request.params.song;
-  word = word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
-  console.log(word);
-  //console.log(elements[word]);
+  var word = request.params.songs;
   if (songs[word]) {
     var reply = songs[word];
   } else {

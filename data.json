@@ -1,346 +1,346 @@
-{
-  "HALLUCINATE": {
-    "NAME": "Hallucinate",
-    "GAY": 5,
-    "DANCE": 5,
-    "ICONIC": 5,
-    "Average": 5,
-    "LINK": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg?si=dc948de2c7ff4305"
+[
+  {
+    "id": 1,
+    "name": "Hallucinate",
+    "gay": 5,
+    "dance": 5,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg?si=dc948de2c7ff4305"
   },
-  "IDGAF": {
-    "NAME": "IDGAF",
-    "GAY": 5,
-    "DANCE": 5,
-    "ICONIC": 5,
-    "Average": 5,
-    "LINK": "https://open.spotify.com/track/5fHNot2sHBsTUMqaGQlksX?si=a97ac41437f74f99"
+  {
+    "id": 2,
+    "name": "IDGAF",
+    "gay": 5,
+    "dance": 5,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/5fHNot2sHBsTUMqaGQlksX?si=a97ac41437f74f99"
   },
-  "AGAIN": {
-    "NAME": "Love Again",
-    "GAY": 0,
-    "DANCE": -3,
-    "ICONIC": 5,
-    "Average": 0.67,
-    "LINK": "https://open.spotify.com/track/3cbE0k4dUtvDJhyHjjuDPz?si=def9ab7f964b4dac"
+  {
+    "id": 3,
+    "name": "Love Again",
+    "gay": 0,
+    "dance": -3,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/3cbE0k4dUtvDJhyHjjuDPz?si=def9ab7f964b4dac"
   },
-  "AINT": {
-    "NAME": "If It Ain't Me",
-    "GAY": 1,
-    "DANCE": 4,
-    "ICONIC": 2,
-    "Average": 2.33,
-    "LINK": "https://open.spotify.com/track/1IdDtg7GhWfHYEWDymq3d2?si=413c1d1c7c874a6c"
+  {
+    "id": 4,
+    "name": "If It Ain't Me",
+    "gay": 1,
+    "dance": 4,
+    "iconic": 2,
+    "link": "https://open.spotify.com/track/1IdDtg7GhWfHYEWDymq3d2?si=413c1d1c7c874a6c"
   },
-  "ONE": {
-    "NAME": "Be the One",
-    "GAY": 3,
-    "DANCE": 3,
-    "ICONIC": 5,
-    "Average": 3.67,
-    "LINK": "https://open.spotify.com/track/1vTntttEXlVHk4uj1vtVEe?si=5ac7292d95f644eb"
+  {
+    "id": 5,
+    "name": "Be the One",
+    "gay": 3,
+    "dance": 3,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/1vTntttEXlVHk4uj1vtVEe?si=5ac7292d95f644eb"
   },
-  "BED": {
-    "NAME": "Good in Bed",
-    "GAY": -5,
-    "DANCE": 2,
-    "ICONIC": 3,
-    "Average": 0,
-    "LINK": "https://open.spotify.com/track/6uAFJ75WDAoAPyCWJAtvks?si=320499d741ac4f92"
+  {
+    "id": 6,
+    "name": "Good in Bed",
+    "gay": -5,
+    "dance": 2,
+    "iconic": 3,
+    "link": "https://open.spotify.com/track/6uAFJ75WDAoAPyCWJAtvks?si=320499d741ac4f92"
   },
-  "BEGGING": {
-    "NAME": "Begging",
-    "GAY": 3,
-    "DANCE": -3,
-    "ICONIC": 3,
-    "Average": 1,
-    "LINK": "https://open.spotify.com/track/2uudsWgb9cF0EjvOTlNWTm?si=9c8b08dca7414a8c"
+  {
+    "id": 7,
+    "name": "Begging",
+    "gay": 3,
+    "dance": -3,
+    "iconic": 3,
+    "link": "https://open.spotify.com/track/2uudsWgb9cF0EjvOTlNWTm?si=9c8b08dca7414a8c"
   },
-  "BLOW": {
-    "NAME": "Blow Your Mind (Mwah)",
-    "GAY": 3,
-    "DANCE": 5,
-    "ICONIC": 5,
-    "Average": 4.33,
-    "LINK": "https://open.spotify.com/track/7kslwVl5nsh9oefSuuPNN9?si=1d23113d58304db8"
+  {
+    "id": 8,
+    "name": "Blow Your Mind (Mwah)",
+    "gay": 3,
+    "dance": 5,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/7kslwVl5nsh9oefSuuPNN9?si=1d23113d58304db8"
   },
-  "BOYS": {
-    "NAME": "Boys Will Be Boys",
-    "GAY": 0,
-    "DANCE": -5,
-    "ICONIC": 3,
-    "Average": -0.67,
-    "LINK": "https://open.spotify.com/track/0vQcyuMEfRBd21ojZ62N2L?si=964a1b735fea4c7f"
+  {
+    "id": 9,
+    "name": "Boys Will Be Boys",
+    "gay": 0,
+    "dance": -5,
+    "iconic": 3,
+    "link": "https://open.spotify.com/track/0vQcyuMEfRBd21ojZ62N2L?si=964a1b735fea4c7f"
   },
-  "BREAK": {
-    "NAME": "Break My Heart",
-    "GAY": 4,
-    "DANCE": 3,
-    "ICONIC": 5,
-    "Average": 4,
-    "LINK": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT?si=209f8fdbfa9446f9"
+  {
+    "id": 10,
+    "name": "Break My Heart",
+    "gay": 4,
+    "dance": 3,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT?si=209f8fdbfa9446f9"
   },
-  "COLD": {
-    "NAME": "Cold Heart (Pnau remix)",
-    "GAY": 5,
-    "DANCE": 2,
-    "ICONIC": 4,
-    "Average": 3.67,
-    "LINK": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz?si=ad7ef300d5e84a9b"
+  {
+    "id": 11,
+    "name": "Cold Heart (Pnau remix)",
+    "gay": 5,
+    "dance": 2,
+    "iconic": 4,
+    "link": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz?si=ad7ef300d5e84a9b"
   },
-  "COOL": {
-    "NAME": "Cool",
-    "GAY": 4,
-    "DANCE": 3,
-    "ICONIC": 5,
-    "Average": 4,
-    "LINK": "https://open.spotify.com/track/2nMOodYNHBAQ3Kc1QNimZU?si=1dca08a1fe384b5a"
+  {
+    "id": 12,
+    "name": "Cool",
+    "gay": 4,
+    "dance": 3,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/2nMOodYNHBAQ3Kc1QNimZU?si=1dca08a1fe384b5a"
   },
-  "START": {
-    "NAME": "Don't Start Now",
-    "GAY": 2,
-    "DANCE": 4,
-    "ICONIC": 5,
-    "Average": 3.67,
-    "LINK": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg?si=a8f5516a155f41c3"
+  {
+    "id": 13,
+    "name": "Don't Start Now",
+    "gay": 2,
+    "dance": 4,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg?si=a8f5516a155f41c3"
   },
-  "DREAMS": {
-    "NAME": "Dreams",
-    "GAY": 3,
-    "DANCE": -3,
-    "ICONIC": 1,
-    "Average": 0.33,
-    "LINK": "https://open.spotify.com/track/1KyKylY7Z6N7xN7dOozOG2?si=db15b42d130c4954"
+  {
+    "id": 14,
+    "name": "Dreams",
+    "gay": 3,
+    "dance": -3,
+    "iconic": 1,
+    "link": "https://open.spotify.com/track/1KyKylY7Z6N7xN7dOozOG2?si=db15b42d130c4954"
   },
-  "ELECTRICITY": {
-    "NAME": "Electricity",
-    "GAY": -2,
-    "DANCE": 5,
-    "ICONIC": 3,
-    "Average": 2,
-    "LINK": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk?si=0bd5de624a154ec6"
+  {
+    "id": 15,
+    "name": "Electricity",
+    "gay": -2,
+    "dance": 5,
+    "iconic": 3,
+    "link": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk?si=0bd5de624a154ec6"
   },
-  "FEVER": {
-    "NAME": "Fever",
-    "GAY": 5,
-    "DANCE": 2,
-    "ICONIC": 4,
-    "Average": 3.67,
-    "LINK": "https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny?si=3ff317ec373d42e1"
+  {
+    "id": 16,
+    "name": "Fever",
+    "gay": 5,
+    "dance": 2,
+    "iconic": 4,
+    "link": "https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny?si=3ff317ec373d42e1"
   },
-  "FUTURE": {
-    "NAME": "Future Nostalgia",
-    "GAY": 5,
-    "DANCE": 3,
-    "ICONIC": 5,
-    "Average": 4.33,
-    "LINK": "https://open.spotify.com/track/5Vzpmk27VQ9M77SCkSkERq?si=d2e736b145c04ea7"
+  {
+    "id": 17,
+    "name": "Future Nostalgia",
+    "gay": 5,
+    "dance": 3,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/5Vzpmk27VQ9M77SCkSkERq?si=d2e736b145c04ea7"
   },
-  "GARDEN": {
-    "NAME": "Garden",
-    "GAY": 0,
-    "DANCE": -5,
-    "ICONIC": 0,
-    "Average": -1.67,
-    "LINK": "https://open.spotify.com/track/1uzOmng8YYkrm7V7UzM1m4?si=804690df4f044532"
+  {
+    "id": 18,
+    "name": "Garden",
+    "gay": 0,
+    "dance": -5,
+    "iconic": 0,
+    "link": "https://open.spotify.com/track/1uzOmng8YYkrm7V7UzM1m4?si=804690df4f044532"
   },
-  "GENESIS": {
-    "NAME": "Genesis",
-    "GAY": 1,
-    "DANCE": -4,
-    "ICONIC": 2,
-    "Average": -0.33,
-    "LINK": "https://open.spotify.com/track/3YKko4QNbegnrYxDUw94gk?si=9c605b8e0bd74bb1"
+  {
+    "id": 19,
+    "name": "Genesis",
+    "gay": 1,
+    "dance": -4,
+    "iconic": 2,
+    "link": "https://open.spotify.com/track/3YKko4QNbegnrYxDUw94gk?si=9c605b8e0bd74bb1"
   },
-  "WERE": {
-    "NAME": "We're Good",
-    "GAY": 2,
-    "DANCE": 2,
-    "ICONIC": 4,
-    "Average": 2.67,
-    "LINK": "https://open.spotify.com/track/4xAJSIcCHcOCli5m325X2H?si=04834074293a4bc1"
+  {
+    "id": 20,
+    "name": "We're Good",
+    "gay": 2,
+    "dance": 2,
+    "iconic": 4,
+    "link": "https://open.spotify.com/track/4xAJSIcCHcOCli5m325X2H?si=04834074293a4bc1"
   },
-  "GOODBYES": {
-    "NAME": "No Goodbyes",
-    "GAY": 1,
-    "DANCE": -5,
-    "ICONIC": 3,
-    "Average": -0.33,
-    "LINK": "https://open.spotify.com/track/4QlYULG9SEgFLmM7SHA1SZ?si=23d7ca03653e43a9"
+  {
+    "id": 21,
+    "name": "No Goodbyes",
+    "gay": 1,
+    "dance": -5,
+    "iconic": 3,
+    "link": "https://open.spotify.com/track/4QlYULG9SEgFLmM7SHA1SZ?si=23d7ca03653e43a9"
   },
-  "HEAR": {
-    "NAME": "Can They Hear Us",
-    "GAY": -5,
-    "DANCE": -4,
-    "ICONIC": 0,
-    "Average": -3,
-    "LINK": "https://open.spotify.com/track/6pOJF93bhb1bTQvOXxE46u?si=0078def238014d40"
+  {
+    "id": 22,
+    "name": "Can They Hear Us",
+    "gay": -5,
+    "dance": -4,
+    "iconic": 0,
+    "link": "https://open.spotify.com/track/6pOJF93bhb1bTQvOXxE46u?si=0078def238014d40"
   },
-  "HOMESICK": {
-    "NAME": "Homesick",
-    "GAY": -1,
-    "DANCE": -4,
-    "ICONIC": 5,
-    "Average": 0,
-    "LINK": "https://open.spotify.com/track/5nNTGNbxS30PX6sZpYh9hJ?si=360da5300f984042"
+  {
+    "id": 23,
+    "name": "Homesick",
+    "gay": -1,
+    "dance": -4,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/5nNTGNbxS30PX6sZpYh9hJ?si=360da5300f984042"
   },
-  "HOTTER": {
-    "NAME": "Hotter than Hell",
-    "GAY": 5,
-    "DANCE": 1,
-    "ICONIC": 5,
-    "Average": 3.67,
-    "LINK": "https://open.spotify.com/track/4fTlLuSt6R3OnjAj0Ty5OC?si=e52289ee92584d5f"
+  {
+    "id": 24,
+    "name": "Hotter than Hell",
+    "gay": 5,
+    "dance": 1,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/4fTlLuSt6R3OnjAj0Ty5OC?si=e52289ee92584d5f"
   },
-  "MAKEUP": {
-    "NAME": "Kiss and Make Up",
-    "GAY": 5,
-    "DANCE": 5,
-    "ICONIC": 5,
-    "Average": 5,
-    "LINK": "https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i?si=47f6918a823945c1"
+  {
+    "id": 25,
+    "name": "Kiss and Make Up",
+    "gay": 5,
+    "dance": 5,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i?si=47f6918a823945c1"
   },
-  "LASTDANCE": {
-    "NAME": "Last Dance",
-    "GAY": 1,
-    "DANCE": 3,
-    "ICONIC": 3,
-    "Average": 2.33,
-    "LINK": "https://open.spotify.com/track/6TX9EAG8PNyIs1kAyZl3OE?si=24713022cd534bcb"
+  {
+    "id": 26,
+    "name": "Last Dance",
+    "gay": 1,
+    "dance": 3,
+    "iconic": 3,
+    "link": "https://open.spotify.com/track/6TX9EAG8PNyIs1kAyZl3OE?si=24713022cd534bcb"
   },
-  "LEVITATING": {
-    "NAME": "Levitating",
-    "GAY": 5,
-    "DANCE": 5,
-    "ICONIC": 5,
-    "Average": 5,
-    "LINK": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP?si=732ada91a4264bc4"
+  {
+    "id": 27,
+    "name": "Levitating",
+    "gay": 5,
+    "dance": 5,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP?si=732ada91a4264bc4"
   },
-  "LOST": {
-    "NAME": "Lost in Your Light",
-    "GAY": 4,
-    "DANCE": 5,
-    "ICONIC": 5,
-    "Average": 4.67,
-    "LINK": "https://open.spotify.com/track/6ff5HMAAkSYPmbbIpB8zLU?si=729f1bcac07e4580"
+  {
+    "id": 28,
+    "name": "Lost in Your Light",
+    "gay": 4,
+    "dance": 5,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/6ff5HMAAkSYPmbbIpB8zLU?si=729f1bcac07e4580"
   },
-  "RULES": {
-    "NAME": "New Rules",
-    "GAY": 5,
-    "DANCE": 4,
-    "ICONIC": 5,
-    "Average": 4.67,
-    "LINK": "https://open.spotify.com/track/4LihUZcWy0B6lGLqcJ8u9B?si=8f77ffc283174cf4"
+  {
+    "id": 29,
+    "name": "New Rules",
+    "gay": 5,
+    "dance": 4,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/4LihUZcWy0B6lGLqcJ8u9B?si=8f77ffc283174cf4"
   },
-  "NEW": {
-    "NAME": "New Love",
-    "GAY": 0,
-    "DANCE": 0,
-    "ICONIC": 3,
-    "Average": 1,
-    "LINK": "https://open.spotify.com/track/4VZXB1paIf867OlmQg89GU?si=9ad951f5e8454945"
+  {
+    "id": 30,
+    "name": "New Love",
+    "gay": 0,
+    "dance": 0,
+    "iconic": 3,
+    "link": "https://open.spotify.com/track/4VZXB1paIf867OlmQg89GU?si=9ad951f5e8454945"
   },
-  "NO LIE": {
-    "NAME": "No Lie",
-    "GAY": 4,
-    "DANCE": 5,
-    "ICONIC": 2,
-    "Average": 3.67,
-    "LINK": "https://open.spotify.com/track/3cFsmM51N5zMAuu1nNY4Tw?si=0f9e126412104d50"
+  {
+    "id": 31,
+    "name": "No Lie",
+    "gay": 4,
+    "dance": 5,
+    "iconic": 2,
+    "link": "https://open.spotify.com/track/3cFsmM51N5zMAuu1nNY4Tw?si=0f9e126412104d50"
   },
-  "ONEKISS": {
-    "NAME": "One Kiss",
-    "GAY": 1,
-    "DANCE": 4,
-    "ICONIC": 5,
-    "Average": 3.33,
-    "LINK": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6?si=4f4084876f354234"
+  {
+    "id": 32,
+    "name": "One Kiss",
+    "gay": 1,
+    "dance": 4,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6?si=4f4084876f354234"
   },
-  "PHYSICAL": {
-    "NAME": "Physical",
-    "GAY": 5,
-    "DANCE": 5,
-    "ICONIC": 5,
-    "Average": 5,
-    "LINK": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V?si=dbd9625a7f2344bb"
+  {
+    "id": 33,
+    "name": "Physical",
+    "gay": 5,
+    "dance": 5,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V?si=dbd9625a7f2344bb"
   },
-  "PRETTY": {
-    "NAME": "Pretty Please",
-    "GAY": 5,
-    "DANCE": 5,
-    "ICONIC": 5,
-    "Average": 5,
-    "LINK": "https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2?si=9e7fba424df34c7f"
+  {
+    "id": 34,
+    "name": "Pretty Please",
+    "gay": 5,
+    "dance": 5,
+    "iconic": 5,
+    "link": "https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2?si=9e7fba424df34c7f"
   },
-  "PRISONER": {
-    "NAME": "Prisoner",
-    "GAY": 5,
-    "DANCE": 3,
-    "ICONIC": 3,
-    "Average": 3.67,
-    "LINK": "https://open.spotify.com/track/5JqZ3oqF00jkT81foAFvqg?si=8354d2d327134d9e"
+  {
+    "id": 35,
+    "name": "Prisoner",
+    "gay": 5,
+    "dance": 3,
+    "iconic": 3,
+    "link": "https://open.spotify.com/track/5JqZ3oqF00jkT81foAFvqg?si=8354d2d327134d9e"
   },
-  "PROBLEM": {
-    "NAME": "Not My Problem",
-    "GAY": -2,
-    "DANCE": 3,
-    "ICONIC": 1,
-    "Average": 0.67,
-    "LINK": "https://open.spotify.com/track/69GVTnxGmUlF2ymLPL2CEp?si=95e8da0ee9324b5d"
+  {
+    "id": 36,
+    "name": "Not My Problem",
+    "gay": -2,
+    "dance": 3,
+    "iconic": 1,
+    "link": "https://open.spotify.com/track/69GVTnxGmUlF2ymLPL2CEp?si=95e8da0ee9324b5d"
   },
-  "ROOM": {
-    "NAME": "Room for 2",
-    "GAY": -5,
-    "DANCE": -2,
-    "ICONIC": 2,
-    "Average": -1.67,
-    "LINK": "https://open.spotify.com/track/5dj8bFvKOOoIVXp7ujd2ml?si=c20e97218bc9430d"
+  {
+    "id": 37,
+    "name": "Room for 2",
+    "gay": -5,
+    "dance": -2,
+    "iconic": 2,
+    "link": "https://open.spotify.com/track/5dj8bFvKOOoIVXp7ujd2ml?si=c20e97218bc9430d"
   },
-  "RUNNING": {
-    "NAME": "Running",
-    "GAY": -5,
-    "DANCE": -1,
-    "ICONIC": 2,
-    "Average": -1.33,
-    "LINK": "https://open.spotify.com/track/0Aj9mjOpjS2TbgSB6sdXNo?si=25929537c38f4dd0"
+  {
+    "id": 38,
+    "name": "Running",
+    "gay": -5,
+    "dance": -1,
+    "iconic": 2,
+    "link": "https://open.spotify.com/track/0Aj9mjOpjS2TbgSB6sdXNo?si=25929537c38f4dd0"
   },
-  "LONELY": {
-    "NAME": "Scared to Be Lonely",
-    "GAY": 2,
-    "DANCE": 4,
-    "ICONIC": 3,
-    "Average": 3,
-    "LINK": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH?si=e1be6c7a63ef438f"
+  {
+    "id": 39,
+    "name": "Scared to Be Lonely",
+    "gay": 2,
+    "dance": 4,
+    "iconic": 3,
+    "link": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH?si=e1be6c7a63ef438f"
   },
-  "THINKING": {
-    "NAME": "Thinking 'Bout You",
-    "GAY": 5,
-    "DANCE": 1,
-    "ICONIC": 2,
-    "Average": 2.67,
-    "LINK": "https://open.spotify.com/track/1CX0GPb1qNX1TbJaofyYNg?si=610c537839dd4247"
+  {
+    "id": 40,
+    "name": "Thinking 'Bout You",
+    "gay": 5,
+    "dance": 1,
+    "iconic": 2,
+    "link": "https://open.spotify.com/track/1CX0GPb1qNX1TbJaofyYNg?si=610c537839dd4247"
   },
-  "TOGETHER": {
-    "NAME": "Bad Together",
-    "GAY": -5,
-    "DANCE": 4,
-    "ICONIC": 3,
-    "Average": 0.67,
-    "LINK": "https://open.spotify.com/track/3XfCpIjEJvAcGnQuEV8xVo?si=966e161004e4421b"
+  {
+    "id": 41,
+    "name": "Bad Together",
+    "gay": -5,
+    "dance": 4,
+    "iconic": 3,
+    "link": "https://open.spotify.com/track/3XfCpIjEJvAcGnQuEV8xVo?si=966e161004e4421b"
   },
-  "WANT": {
-    "NAME": "Want To",
-    "GAY": 3,
-    "DANCE": -5,
-    "ICONIC": 0,
-    "Average": -0.67,
-    "LINK": "https://open.spotify.com/track/6Z3aekpUm3ZvWRe766Y0gQ?si=d00f9414afc14278"
+  {
+    "id": 42,
+    "name": "Want To",
+    "gay": 3,
+    "dance": -5,
+    "iconic": 0,
+    "link": "https://open.spotify.com/track/6Z3aekpUm3ZvWRe766Y0gQ?si=d00f9414afc14278"
   },
-  "WOMAN": {
-    "NAME": "That Kind of Woman",
-    "GAY": 3,
-    "DANCE": -4,
-    "ICONIC": -2,
-    "Average": -1,
-    "LINK": "https://open.spotify.com/track/4FuZofNMHdtsEdrsqwF3xR?si=78940352dad34fbc"
+  {
+    "id": 43,
+    "name": "That Kind of Woman",
+    "gay": 3,
+    "dance": -4,
+    "iconic": -2,
+    "link": "https://open.spotify.com/track/4FuZofNMHdtsEdrsqwF3xR?si=78940352dad34fbc"
   }
-}
+]
