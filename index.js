@@ -3,12 +3,10 @@ var data = fs.readFileSync("data.json");
 var songs = JSON.parse(data);
 const express = require("express");
 const app = express();
-const cors = require("cors");
 
-process.env.PORT || port;
+app.listen(process.env.PORT, () => console.log("Server Start at 5000 Port"));
 
 app.use(express.static("public"));
-app.use(cors());
 app.get("/songs", alldata);
 function alldata(request, response) {
   // Returns all information about the elements
